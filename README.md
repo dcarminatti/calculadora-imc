@@ -9,7 +9,7 @@ Este é um simples site responsivo para calcular o Índice de Massa Corporal (IM
 -   Calculadora de IMC: Insira seu peso e altura para obter o IMC instantaneamente.
 -   Controle de dados
 -   Alerta de erro personalizado quando um valor digitado é invalido
--   Estruração e modularização do código
+-   Estruturação e modularização do código
 
 ## Tecnologias Utilizadas
 
